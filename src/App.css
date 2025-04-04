@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+
+.bg-btn{
+  background-color: black;
+  color: white;
+  width: 27%;
+  margin: 1%;
+  padding: 0%;
+}
